@@ -1,0 +1,12 @@
+name: ml-materials-conda
+
+dependencies:
+  - python=3.8
+  - numpy
+  - matplotlib
+  - pandas
+
+  - pip:
+    - matminer==0.6.2
+    - pymatgen==2020.1.28
+    - shap==0.35.0
