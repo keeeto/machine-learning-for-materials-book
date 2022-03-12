@@ -5,5 +5,5 @@ This is a repo to collect resources assocaited with the book *Machine Learning f
 ## Setting up the environment
 
 ```
-conda env create -f environment.yml
+conda env create -f ml-mater-conda.yaml 
 ```
